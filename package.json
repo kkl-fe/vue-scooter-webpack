@@ -1,6 +1,6 @@
 {
   "name": "vue-scooter-webpack",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "vue scooter build support use webpack.",
   "main": "lib/index.js",
   "bin": {
