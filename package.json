@@ -32,7 +32,6 @@
     "raw-edit-loader": "^0.1.1",
     "url-loader": "^4.1.1",
     "vue-loader": "^15.0.0",
-    "vue-style-loader": "^4.1.2",
     "vue-template-compiler": "^2.6.12",
     "webpack": "^4.0.0"
   }
