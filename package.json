@@ -1,6 +1,6 @@
 {
   "name": "vue-scooter-webpack",
-  "version": "0.3.3",
+  "version": "0.4.0",
   "description": "vue scooter build support use webpack.",
   "main": "lib/index.js",
   "bin": {
@@ -34,6 +34,7 @@
     "vue-loader": "^15.0.0",
     "vue-template-compiler": "^2.6.12",
     "webpack": "^4.0.0",
+    "webpack-clean-dist-plugin": "^0.1.1",
     "webpack-merge": "^5.7.3"
   }
 }
